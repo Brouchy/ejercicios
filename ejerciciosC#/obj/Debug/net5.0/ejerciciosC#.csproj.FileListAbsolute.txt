@@ -1,0 +1,16 @@
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\bin\Debug\net5.0\ejerciciosC#.exe
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\bin\Debug\net5.0\ejerciciosC#.deps.json
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\bin\Debug\net5.0\ejerciciosC#.runtimeconfig.json
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\bin\Debug\net5.0\ejerciciosC#.runtimeconfig.dev.json
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\bin\Debug\net5.0\ejerciciosC#.dll
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\bin\Debug\net5.0\ref\ejerciciosC#.dll
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\bin\Debug\net5.0\ejerciciosC#.pdb
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.dll
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ref\ejerciciosC#.dll
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.pdb
+C:\Users\Hernan\Desktop\ejerciciosJS\ejerciciosC#\obj\Debug\net5.0\ejerciciosC#.genruntimeconfig.cache
